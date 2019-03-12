@@ -1,0 +1,19 @@
+{
+  "name": "thenotesproject",
+  "version": "1.0.0",
+  "description": "An simple app to make notes made with NodeJs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Lima",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "hbs": "^4.0.3",
+    "node-fetch": "^2.3.0",
+    "npm-install-all": "^1.1.21"
+  }
+}
