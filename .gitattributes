@@ -1,1 +1,3 @@
 *.json linguist-language=JavaScript
+*.js linguist-language=JavaScript
+*.hbs linguist-language=JavaScript
