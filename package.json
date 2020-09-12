@@ -13,7 +13,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "hbs": "^4.0.3",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "npm-install-all": "^1.1.21"
   }
 }
